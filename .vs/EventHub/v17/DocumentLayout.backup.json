@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423134859_CraeterelationBadgeandAttende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260423134859_CraeterelationBadgeandAttende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\models\\attende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:models\\attende.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\configurations\\attendeconfiguation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:configurations\\attendeconfiguation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\configurations\\badgeconfiguation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:configurations\\badgeconfiguation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\models\\badge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:models\\badge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423133551_CraeteManyToManyEventAndAttendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260423133551_CraeteManyToManyEventAndAttendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\configurations\\registrationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:configurations\\registrationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\configurations\\eventconfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:configurations\\eventconfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\migrations\\20260423130830_craeterelationshipbetweeneventandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:migrations\\20260423130830_craeterelationshipbetweeneventandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\migrations\\20260423124620_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:migrations\\20260423124620_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\migrations\\20260423130446_dorpcolumneventidintableregsitration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:migrations\\20260423130446_dorpcolumneventidintableregsitration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\models\\ognaizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:models\\ognaizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\configurations\\configationoragnizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:configurations\\configationoragnizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\configurations\\configrationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:configurations\\configrationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\migrations\\20260423131949_addeventselfreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:migrations\\20260423131949_addeventselfreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\migrations\\20260423125718_craeterelationbetweeneventandorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:migrations\\20260423125718_craeterelationbetweeneventandorganizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|d:\\education\\routeasp tasks\\ef\\eventhub\\eventhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91C30DD1-7A31-471B-AFB2-FAB261F95001}|EventHub.csproj|solutionrelative:eventhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260423134859_CraeterelationBadgeandAttende.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423134859_CraeterelationBadgeandAttende.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423134859_CraeterelationBadgeandAttende.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423134859_CraeterelationBadgeandAttende.cs",
+              "RelativeToolTip": "Migrations\\20260423134859_CraeterelationBadgeandAttende.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:48:59.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendeConfiguation.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\AttendeConfiguation.cs",
+              "RelativeDocumentMoniker": "Configurations\\AttendeConfiguation.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\AttendeConfiguation.cs",
+              "RelativeToolTip": "Configurations\\AttendeConfiguation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:45:33.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BadgeConfiguation.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\BadgeConfiguation.cs",
+              "RelativeDocumentMoniker": "Configurations\\BadgeConfiguation.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\BadgeConfiguation.cs",
+              "RelativeToolTip": "Configurations\\BadgeConfiguation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:41:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attende.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Attende.cs",
+              "RelativeDocumentMoniker": "Models\\Attende.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Attende.cs",
+              "RelativeToolTip": "Models\\Attende.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T23:04:54.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Badge.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Badge.cs",
+              "RelativeDocumentMoniker": "Models\\Badge.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Badge.cs",
+              "RelativeToolTip": "Models\\Badge.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T23:11:00.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T23:00:55.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "Models\\Registration.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Registration.cs",
+              "RelativeToolTip": "Models\\Registration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T23:14:24.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260423133551_CraeteManyToManyEventAndAttendee.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423133551_CraeteManyToManyEventAndAttendee.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423133551_CraeteManyToManyEventAndAttendee.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423133551_CraeteManyToManyEventAndAttendee.cs",
+              "RelativeToolTip": "Migrations\\20260423133551_CraeteManyToManyEventAndAttendee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:35:51.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationConfiguration.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\RegistrationConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\RegistrationConfiguration.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\RegistrationConfiguration.cs",
+              "RelativeToolTip": "Configurations\\RegistrationConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:21:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventConfiguartion.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\EventConfiguartion.cs",
+              "RelativeDocumentMoniker": "Configurations\\EventConfiguartion.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\EventConfiguartion.cs",
+              "RelativeToolTip": "Configurations\\EventConfiguartion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:50:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260423130830_CraeteRelationShipBetweenEventAndRegister.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423130830_CraeteRelationShipBetweenEventAndRegister.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423130830_CraeteRelationShipBetweenEventAndRegister.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423130830_CraeteRelationShipBetweenEventAndRegister.cs",
+              "RelativeToolTip": "Migrations\\20260423130830_CraeteRelationShipBetweenEventAndRegister.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:08:31.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260423124620_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423124620_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423124620_InitialCreate.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423124620_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260423124620_InitialCreate.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:46:20.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260423130446_dorpColumnEventIdinTableRegsitration.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423130446_dorpColumnEventIdinTableRegsitration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423130446_dorpColumnEventIdinTableRegsitration.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423130446_dorpColumnEventIdinTableRegsitration.cs",
+              "RelativeToolTip": "Migrations\\20260423130446_dorpColumnEventIdinTableRegsitration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:04:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ognaizer.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Ognaizer.cs",
+              "RelativeDocumentMoniker": "Models\\Ognaizer.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Ognaizer.cs",
+              "RelativeToolTip": "Models\\Ognaizer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:36:09.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "Models\\Profile.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Models\\Profile.cs",
+              "RelativeToolTip": "Models\\Profile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:37:56.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConfigrationProfile.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\ConfigrationProfile.cs",
+              "RelativeDocumentMoniker": "Configurations\\ConfigrationProfile.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\ConfigrationProfile.cs",
+              "RelativeToolTip": "Configurations\\ConfigrationProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:41:39.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260423131949_AddEventSelfReference.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423131949_AddEventSelfReference.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423131949_AddEventSelfReference.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423131949_AddEventSelfReference.cs",
+              "RelativeToolTip": "Migrations\\20260423131949_AddEventSelfReference.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:19:49.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfigationOragnizer.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\ConfigationOragnizer.cs",
+              "RelativeDocumentMoniker": "Configurations\\ConfigationOragnizer.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Configurations\\ConfigationOragnizer.cs",
+              "RelativeToolTip": "Configurations\\ConfigationOragnizer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:35:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260423125718_CraeteRelationBetweenEventAndOrganizer.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423125718_CraeteRelationBetweenEventAndOrganizer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423125718_CraeteRelationBetweenEventAndOrganizer.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Migrations\\20260423125718_CraeteRelationBetweenEventAndOrganizer.cs",
+              "RelativeToolTip": "Migrations\\20260423125718_CraeteRelationBetweenEventAndOrganizer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:57:18.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventHub",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\EventHub.csproj",
+              "RelativeDocumentMoniker": "EventHub.csproj",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\EventHub.csproj",
+              "RelativeToolTip": "EventHub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T12:26:48.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Education\\RouteASP Tasks\\EF\\EventHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:35:14.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 103,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
